@@ -1,0 +1,1715 @@
+fileFormatVersion: 2
+guid: 693c1927ef7163044b849b4f3f251aa9
+timeCreated: 1494249599
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bolt_01
+    100004: bolt_010
+    100006: bolt_011
+    100008: bolt_011 1
+    100010: bolt_012
+    100012: bolt_012 1
+    100014: bolt_013
+    100016: bolt_013 1
+    100018: bolt_014
+    100020: bolt_014 1
+    100022: bolt_02
+    100024: bolt_03
+    100026: bolt_04
+    100028: bolt_05
+    100030: bolt_06
+    100032: bolt_07
+    100034: bolt_08
+    100036: bolt_09
+    100038: Camera_crests_01
+    100040: Camera_crests_02
+    100042: Camera_crests_03
+    100044: Camera_lens_01
+    100046: Camera_lens_02
+    100048: Camera_lens_03
+    100050: Camera_sphere_01
+    100052: Camera_sphere_02
+    100054: Camera_sphere_03
+    100056: Camera_tube_01
+    100058: Camera_tube_02
+    100060: Camera_tube_03
+    100062: Cilinder_screen_bolt_01
+    100064: Cilinder_screen_bolt_02
+    100066: Cilinder_screen_bolt_03
+    100068: Cilinder_screen_bolt_04
+    100070: Cilinder_screen_bolt_05
+    100072: Cilinder_screen_bolt_06
+    100074: Cilinder_screen_bolt_07
+    100076: Cilinder_screen_bolt_08
+    100078: Cilinder_screen_bolt_09
+    100080: Cilinder_screen_bolt_10
+    100082: Cilinder_screen_bolt_11
+    100084: Cilinder_screen_bolt_12
+    100086: Cilinder_screen_bolt_13
+    100088: Cilinder_screen_bolt_14
+    100090: Cilinder_screen_l_01
+    100092: Cilinder_screen_middle_01
+    100094: Cilinder_screen_r_01
+    100096: Cilinder_screen_r_01 1
+    100098: Cilinder_sidePanel_bolt_15
+    100100: Cilinder_sidePanel_bolt_15 1
+    100102: Cilinder_sidePanel_bolt_16
+    100104: Cilinder_sidePanel_bolt_16 1
+    100106: Cilinder_sidePanel_bolt_17
+    100108: Cilinder_sidePanel_bolt_17 1
+    100110: Cilinder_sidePanel_bolt_18
+    100112: Cilinder_sidePanel_bolt_18 1
+    100114: Cilinder_sidePanel_bolt_19
+    100116: Cilinder_sidePanel_bolt_19 1
+    100118: Cilinder_sidePanel_bolt_20
+    100120: Cilinder_sidePanel_bolt_20 1
+    100122: cockpit
+    100124: cockpit_cilinder_01
+    100126: cockpit_cilinder_01 1
+    100128: cockpit_cilinder_02
+    100130: cockpit_cilinder_02 1
+    100132: Cockpit_crystal
+    100134: Cockpit_crystal 1
+    100136: Cockpit_crystal_OuterFrame_01
+    100138: Cockpit_crystal_OuterFrame_02
+    100140: Cockpit_crystal_OuterFrame_03
+    100142: Cockpit_crystal_OuterFrame_04
+    100144: Cockpit_crystal_OuterFrame_05
+    100146: Cockpit_crystal_OuterFrame_Bolt_01
+    100148: Cockpit_crystal_OuterFrame_Bolt_01 1
+    100150: Cockpit_crystal_OuterFrame_Bolt_02
+    100152: Cockpit_crystal_OuterFrame_Bolt_02 1
+    100154: Cockpit_crystal_OuterFrame_Bolt_03
+    100156: Cockpit_crystal_OuterFrame_Bolt_03 1
+    100158: Cockpit_crystal_OuterFrame_Bolt_04
+    100160: Cockpit_crystal_OuterFrame_Bolt_04 1
+    100162: Cockpit_crystal_OuterFrame_Bolt_05
+    100164: Cockpit_crystal_OuterFrame_Bolt_05 1
+    100166: Cockpit_crystal_OuterFrame_bolts_01
+    100168: Cockpit_crystal_OuterFrame_bolts_02
+    100170: Cockpit_crystal_OuterFrameBOLTSZ
+    100172: Cockpit_floor
+    100174: cockpit_front_base
+    100176: cockpit_JOINT_cilinder_01
+    100178: cockpit_JOINT_cilinder_01 1
+    100180: cockpit_JOINT_cilinder_GRoup_01
+    100182: cockpit_JOINT_cilinder_GRoup_02
+    100184: cockpit_light_indicator_panel_01
+    100186: cockpit_light_indicator_panel_01 1
+    100188: cockpit_light_indicator_panel_02
+    100190: CockPit_Wall_01
+    100192: curve1
+    100194: curve1 1
+    100196: curve2
+    100198: curve2 1
+    100200: curve3
+    100202: curve3 1
+    100204: Flight_Controls
+    100206: group1
+    100208: jostick_circle_top
+    100210: jostick_circle_top1
+    100212: jostick_circle_top_l_01
+    100214: Joystick_base_l_01
+    100216: Joystick_base_l_02
+    100218: Joystick_base_r_01
+    100220: Joystick_base_r_02
+    100222: joystick_button
+    100224: joystick_button1
+    100226: Joystick_button_trigger_l_01
+    100228: Joystick_button_trigger_r_01
+    100230: Joystick_conexion_tube
+    100232: Joystick_conexion_tube1
+    100234: Joystick_conexion_tube_l_01
+    100236: Joystick_conexion_tube_l_02
+    100238: Joystick_main_button_l_01
+    100240: Joystick_main_button_r_01
+    100242: joystick_oval_01
+    100244: joystick_oval_l_01
+    100246: Laser_cannon_l_01
+    100248: Laser_cannon_l_02
+    100250: Laser_cannon_l_03
+    100252: Lateral_panel_l_01
+    100254: Lateral_panel_r_01
+    100256: Lateral_panels
+    100258: LED_025
+    100260: LED_025 1
+    100262: LED_035
+    100264: LED_05
+    100266: LED_055
+    100268: LED_056
+    100270: LED_057
+    100272: LED_058
+    100274: LED_059
+    100276: LED_060
+    100278: LED_061
+    100280: LED_062
+    100282: LED_063
+    100284: LED_064
+    100286: LED_065
+    100288: LED_066
+    100290: LED_067
+    100292: LED_068
+    100294: LED_069
+    100296: LED_070
+    100298: LED_071
+    100300: LED_072
+    100302: LED_073
+    100304: LED_074
+    100306: LED_075
+    100308: LED_076
+    100310: LED_077
+    100312: LED_078
+    100314: LED_079
+    100316: LED_080
+    100318: LED_081
+    100320: LED_082
+    100322: LED_083
+    100324: LED_084
+    100326: Led_light_cube
+    100328: Led_light_cube1
+    100330: Led_light_cube2
+    100332: Led_light_cube3
+    100334: Led_light_cube4
+    100336: Led_light_cube5
+    100338: lever_01
+    100340: Lever_handle_01
+    100342: lever_tube
+    100344: Misc
+    100346: Naboo_mainStructure_01
+    100348: Panel_lateral
+    100350: Panel_lateral 1
+    100352: Panel_switches_light
+    100354: Panels
+    100356: Panels_LEDS
+    100358: pCone1
+    100360: pCone2
+    100362: Pedal_foot_01
+    100364: Pedal_foot_02
+    100366: Pedal_piston_01
+    100368: Pedal_piston_02
+    100370: Pedal_piston_03
+    100372: Pedal_piston_04
+    100374: Pedals
+    100376: polySurface7
+    100378: polySurface8
+    100380: R0d2_lower_Gadgets_01
+    100382: r2_cilinder
+    100384: R2d2_camera_01
+    100386: R2d2_camera_02
+    100388: R2D2_camera_03
+    100390: R2d2_lens_01
+    100392: R2d2_lens_02
+    100394: R2d2_lens_03
+    100396: R2d2_lensBackground_02
+    100398: R2d2_lensBackground_03
+    100400: R2d2_main_body
+    100402: R2d2_unit
+    100404: R2d2_upper_gadgets_01
+    100406: screens
+    100408: Seat_01
+    100410: Seat_belt_big_02
+    100412: Seat_belt_big_04
+    100414: Seat_belt_main_01
+    100416: Seat_belt_main_03
+    100418: Seat_belt_thingy_03
+    100420: Seat_belt_thingy_03 1
+    100422: Seat_down_01
+    100424: seat_head_01
+    100426: seat_head_base_01
+    100428: seat_head_lateral_l_01
+    100430: seat_head_lateral_l_01 1
+    100432: seat_head_lateral_l_01 2
+    100434: seat_head_lateral_l_cilinders_01
+    100436: seat_head_lateral_l_cilinders_01 1
+    100438: seat_head_lateral_l_circle_01
+    100440: seat_head_lateral_l_circle_01 1
+    100442: seat_head_lateral_r_01
+    100444: seat_head_lateral_r_02
+    100446: Seat_head_pillow
+    100448: seat_head_wiring_01
+    100450: seat_head_wiring_02
+    100452: seat_side_rectangle
+    100454: seat_side_rectangle1
+    100456: seat_side_rectangle2
+    100458: seat_side_rectangle_01
+    100460: seat_side_rectangle_01 1
+    100462: seat_side_rectangle_02
+    100464: seat_side_rectangle_02 1
+    100466: Seat_UpperBack_01
+    100468: seatbelt_01
+    100470: seatbelt_02
+    100472: Seatbelt_group
+    100474: Ship_Joystick_l_01
+    100476: Ship_Joystick_r_01
+    100478: Ship_structure
+    100480: side_panel_BOLTS_01
+    100482: side_panel_BOLTS_01 1
+    100484: Side_panel_box_A_01
+    100486: Side_panel_box_A_01 1
+    100488: Side_panel_box_B_01
+    100490: Side_panel_box_B_01 1
+    100492: Side_panel_circle_botton_01
+    100494: Side_panel_circle_botton_01 1
+    100496: Side_panel_circle_botton_02
+    100498: Side_panel_circle_botton_02 1
+    100500: Side_Panel_Cube_Tube_01
+    100502: Side_Panel_Cube_Tube_01 1
+    100504: Side_Panel_Cube_Tube_02
+    100506: Side_Panel_Cube_Tube_02 1
+    100508: Side_Panel_Cube_Tube_03
+    100510: Side_Panel_Cube_Tube_03 1
+    100512: Side_Panel_Cube_Tubing_01
+    100514: Side_Panel_Cube_Tubing_01 1
+    100516: Side_Panel_Cube_Tubing_01 2
+    100518: Side_Panel_Cube_Tubing_01 3
+    100520: Side_Panel_Cube_Tubing_04
+    100522: Side_Panel_Cube_Tubing_04 1
+    100524: Side_panel_lightBulb_01
+    100526: Side_panel_lightBulb_02
+    100528: Side_panel_rectangle_switches_l_01
+    100530: Side_panel_rectangle_switches_l_01 1
+    100532: side_panel_tube_cilinder_01
+    100534: side_panel_tube_cilinder_01 1
+    100536: side_panel_tube_cilinder_01 2
+    100538: side_panel_tube_cilinder_01 3
+    100540: side_panel_tube_cilinder_01 4
+    100542: side_panel_tube_cilinder_01 5
+    100544: side_panel_tube_cube_01
+    100546: side_panel_tube_cube_01 1
+    100548: side_panel_tube_cube_01 2
+    100550: side_panel_tube_cube_01 3
+    100552: side_panel_tube_cube_01 4
+    100554: side_panel_tube_cube_01 5
+    100556: side_panel_tube_Led_01
+    100558: side_panel_tube_Led_02
+    100560: side_panel_tube_Led_03
+    100562: side_panel_tube_Led_04
+    100564: side_panel_tube_Led_05
+    100566: side_panel_tube_Led_06
+    100568: side_panel_tube_tubing_01
+    100570: side_panel_tube_tubing_01 1
+    100572: side_panel_tube_tubing_02
+    100574: side_panel_tube_tubing_02 1
+    100576: side_panel_tube_tubing_03
+    100578: side_panel_tube_tubing_03 1
+    100580: Side_panel_wall_cilinder_01
+    100582: Side_panel_wall_cilinder_01 1
+    100584: Side_panel_wall_cilinder_02
+    100586: Side_panel_wall_rectangle
+    100588: Side_panel_wall_rectangle 1
+    100590: Side_panel_wall_rectangle1
+    100592: Side_panel_wall_rectangle2
+    100594: Six_pack_switches_group
+    100596: SixPack_switches_Panel
+    100598: Small_central_panel_01
+    100600: Small_central_panel_multiLed
+    100602: Small_central_panel_small_ledaquare
+    100604: Sode_panel_window_rail
+    100606: Sode_panel_window_rail 1
+    100608: Startup_button_01
+    100610: Startup_button_01 1
+    100612: Startup_button_base_rim
+    100614: starup_button_sign
+    100616: structure_astromechDroid_area
+    100618: Switch_led_01
+    100620: Switch_led_02
+    100622: Switch_led_03
+    100624: Switch_led_04
+    100626: Switch_led_05
+    100628: Switch_led_06
+    100630: Switch_light_01
+    100632: Switch_light_01 1
+    100634: Switch_light_01 2
+    100636: Switch_light_01 3
+    100638: Switch_light_01 4
+    100640: Switch_light_01 5
+    100642: Switch_light_010
+    100644: Switch_light_011
+    100646: Switch_light_012
+    100648: Switch_light_013
+    100650: Switch_light_014
+    100652: Switch_light_02
+    100654: Switch_light_03
+    100656: Switch_light_04
+    100658: Switch_light_05
+    100660: Switch_light_06
+    100662: Switch_light_07
+    100664: Switch_light_08
+    100666: Switch_light_09
+    100668: Switch_light_frame_01
+    100670: Switch_light_frame_01 1
+    100672: Switch_light_frame_01 2
+    100674: Switch_light_frame_01 3
+    100676: Switch_light_frame_01 4
+    100678: Switch_light_frame_01 5
+    100680: Switch_light_frame_010
+    100682: Switch_light_frame_011
+    100684: Switch_light_frame_012
+    100686: Switch_light_frame_013
+    100688: Switch_light_frame_014
+    100690: Switch_light_frame_02
+    100692: Switch_light_frame_03
+    100694: Switch_light_frame_04
+    100696: Switch_light_frame_05
+    100698: Switch_light_frame_06
+    100700: Switch_light_frame_07
+    100702: Switch_light_frame_08
+    100704: Switch_light_frame_09
+    100706: Switch_SixPack_01
+    100708: Switch_SixPack_02
+    100710: Switch_SixPack_03
+    100712: Switch_SixPack_04
+    100714: Switch_SixPack_05
+    100716: Switch_SixPack_06
+    100718: Switch_SixPack_CircleBase_01
+    100720: Switch_SixPack_CircleBase_02
+    100722: Switch_SixPack_CircleBase_03
+    100724: Switch_SixPack_CircleBase_04
+    100726: Switch_SixPack_CircleBase_05
+    100728: Switch_SixPack_CircleBase_06
+    100730: transform1
+    100732: transform2
+    100734: transform3
+    100736: turbine_HeatSinkFinial_l_01
+    100738: turbine_HeatSinkFinial_l_02
+    100740: Turbine_protective_dome_l_01
+    100742: Turbine_protective_dome_l_02
+    400000: //RootNode
+    400002: bolt_01
+    400004: bolt_010
+    400006: bolt_011
+    400008: bolt_011 1
+    400010: bolt_012
+    400012: bolt_012 1
+    400014: bolt_013
+    400016: bolt_013 1
+    400018: bolt_014
+    400020: bolt_014 1
+    400022: bolt_02
+    400024: bolt_03
+    400026: bolt_04
+    400028: bolt_05
+    400030: bolt_06
+    400032: bolt_07
+    400034: bolt_08
+    400036: bolt_09
+    400038: Camera_crests_01
+    400040: Camera_crests_02
+    400042: Camera_crests_03
+    400044: Camera_lens_01
+    400046: Camera_lens_02
+    400048: Camera_lens_03
+    400050: Camera_sphere_01
+    400052: Camera_sphere_02
+    400054: Camera_sphere_03
+    400056: Camera_tube_01
+    400058: Camera_tube_02
+    400060: Camera_tube_03
+    400062: Cilinder_screen_bolt_01
+    400064: Cilinder_screen_bolt_02
+    400066: Cilinder_screen_bolt_03
+    400068: Cilinder_screen_bolt_04
+    400070: Cilinder_screen_bolt_05
+    400072: Cilinder_screen_bolt_06
+    400074: Cilinder_screen_bolt_07
+    400076: Cilinder_screen_bolt_08
+    400078: Cilinder_screen_bolt_09
+    400080: Cilinder_screen_bolt_10
+    400082: Cilinder_screen_bolt_11
+    400084: Cilinder_screen_bolt_12
+    400086: Cilinder_screen_bolt_13
+    400088: Cilinder_screen_bolt_14
+    400090: Cilinder_screen_l_01
+    400092: Cilinder_screen_middle_01
+    400094: Cilinder_screen_r_01
+    400096: Cilinder_screen_r_01 1
+    400098: Cilinder_sidePanel_bolt_15
+    400100: Cilinder_sidePanel_bolt_15 1
+    400102: Cilinder_sidePanel_bolt_16
+    400104: Cilinder_sidePanel_bolt_16 1
+    400106: Cilinder_sidePanel_bolt_17
+    400108: Cilinder_sidePanel_bolt_17 1
+    400110: Cilinder_sidePanel_bolt_18
+    400112: Cilinder_sidePanel_bolt_18 1
+    400114: Cilinder_sidePanel_bolt_19
+    400116: Cilinder_sidePanel_bolt_19 1
+    400118: Cilinder_sidePanel_bolt_20
+    400120: Cilinder_sidePanel_bolt_20 1
+    400122: cockpit
+    400124: cockpit_cilinder_01
+    400126: cockpit_cilinder_01 1
+    400128: cockpit_cilinder_02
+    400130: cockpit_cilinder_02 1
+    400132: Cockpit_crystal
+    400134: Cockpit_crystal 1
+    400136: Cockpit_crystal_OuterFrame_01
+    400138: Cockpit_crystal_OuterFrame_02
+    400140: Cockpit_crystal_OuterFrame_03
+    400142: Cockpit_crystal_OuterFrame_04
+    400144: Cockpit_crystal_OuterFrame_05
+    400146: Cockpit_crystal_OuterFrame_Bolt_01
+    400148: Cockpit_crystal_OuterFrame_Bolt_01 1
+    400150: Cockpit_crystal_OuterFrame_Bolt_02
+    400152: Cockpit_crystal_OuterFrame_Bolt_02 1
+    400154: Cockpit_crystal_OuterFrame_Bolt_03
+    400156: Cockpit_crystal_OuterFrame_Bolt_03 1
+    400158: Cockpit_crystal_OuterFrame_Bolt_04
+    400160: Cockpit_crystal_OuterFrame_Bolt_04 1
+    400162: Cockpit_crystal_OuterFrame_Bolt_05
+    400164: Cockpit_crystal_OuterFrame_Bolt_05 1
+    400166: Cockpit_crystal_OuterFrame_bolts_01
+    400168: Cockpit_crystal_OuterFrame_bolts_02
+    400170: Cockpit_crystal_OuterFrameBOLTSZ
+    400172: Cockpit_floor
+    400174: cockpit_front_base
+    400176: cockpit_JOINT_cilinder_01
+    400178: cockpit_JOINT_cilinder_01 1
+    400180: cockpit_JOINT_cilinder_GRoup_01
+    400182: cockpit_JOINT_cilinder_GRoup_02
+    400184: cockpit_light_indicator_panel_01
+    400186: cockpit_light_indicator_panel_01 1
+    400188: cockpit_light_indicator_panel_02
+    400190: CockPit_Wall_01
+    400192: curve1
+    400194: curve1 1
+    400196: curve2
+    400198: curve2 1
+    400200: curve3
+    400202: curve3 1
+    400204: Flight_Controls
+    400206: group1
+    400208: jostick_circle_top
+    400210: jostick_circle_top1
+    400212: jostick_circle_top_l_01
+    400214: Joystick_base_l_01
+    400216: Joystick_base_l_02
+    400218: Joystick_base_r_01
+    400220: Joystick_base_r_02
+    400222: joystick_button
+    400224: joystick_button1
+    400226: Joystick_button_trigger_l_01
+    400228: Joystick_button_trigger_r_01
+    400230: Joystick_conexion_tube
+    400232: Joystick_conexion_tube1
+    400234: Joystick_conexion_tube_l_01
+    400236: Joystick_conexion_tube_l_02
+    400238: Joystick_main_button_l_01
+    400240: Joystick_main_button_r_01
+    400242: joystick_oval_01
+    400244: joystick_oval_l_01
+    400246: Laser_cannon_l_01
+    400248: Laser_cannon_l_02
+    400250: Laser_cannon_l_03
+    400252: Lateral_panel_l_01
+    400254: Lateral_panel_r_01
+    400256: Lateral_panels
+    400258: LED_025
+    400260: LED_025 1
+    400262: LED_035
+    400264: LED_05
+    400266: LED_055
+    400268: LED_056
+    400270: LED_057
+    400272: LED_058
+    400274: LED_059
+    400276: LED_060
+    400278: LED_061
+    400280: LED_062
+    400282: LED_063
+    400284: LED_064
+    400286: LED_065
+    400288: LED_066
+    400290: LED_067
+    400292: LED_068
+    400294: LED_069
+    400296: LED_070
+    400298: LED_071
+    400300: LED_072
+    400302: LED_073
+    400304: LED_074
+    400306: LED_075
+    400308: LED_076
+    400310: LED_077
+    400312: LED_078
+    400314: LED_079
+    400316: LED_080
+    400318: LED_081
+    400320: LED_082
+    400322: LED_083
+    400324: LED_084
+    400326: Led_light_cube
+    400328: Led_light_cube1
+    400330: Led_light_cube2
+    400332: Led_light_cube3
+    400334: Led_light_cube4
+    400336: Led_light_cube5
+    400338: lever_01
+    400340: Lever_handle_01
+    400342: lever_tube
+    400344: Misc
+    400346: Naboo_mainStructure_01
+    400348: Panel_lateral
+    400350: Panel_lateral 1
+    400352: Panel_switches_light
+    400354: Panels
+    400356: Panels_LEDS
+    400358: pCone1
+    400360: pCone2
+    400362: Pedal_foot_01
+    400364: Pedal_foot_02
+    400366: Pedal_piston_01
+    400368: Pedal_piston_02
+    400370: Pedal_piston_03
+    400372: Pedal_piston_04
+    400374: Pedals
+    400376: polySurface7
+    400378: polySurface8
+    400380: R0d2_lower_Gadgets_01
+    400382: r2_cilinder
+    400384: R2d2_camera_01
+    400386: R2d2_camera_02
+    400388: R2D2_camera_03
+    400390: R2d2_lens_01
+    400392: R2d2_lens_02
+    400394: R2d2_lens_03
+    400396: R2d2_lensBackground_02
+    400398: R2d2_lensBackground_03
+    400400: R2d2_main_body
+    400402: R2d2_unit
+    400404: R2d2_upper_gadgets_01
+    400406: screens
+    400408: Seat_01
+    400410: Seat_belt_big_02
+    400412: Seat_belt_big_04
+    400414: Seat_belt_main_01
+    400416: Seat_belt_main_03
+    400418: Seat_belt_thingy_03
+    400420: Seat_belt_thingy_03 1
+    400422: Seat_down_01
+    400424: seat_head_01
+    400426: seat_head_base_01
+    400428: seat_head_lateral_l_01
+    400430: seat_head_lateral_l_01 1
+    400432: seat_head_lateral_l_01 2
+    400434: seat_head_lateral_l_cilinders_01
+    400436: seat_head_lateral_l_cilinders_01 1
+    400438: seat_head_lateral_l_circle_01
+    400440: seat_head_lateral_l_circle_01 1
+    400442: seat_head_lateral_r_01
+    400444: seat_head_lateral_r_02
+    400446: Seat_head_pillow
+    400448: seat_head_wiring_01
+    400450: seat_head_wiring_02
+    400452: seat_side_rectangle
+    400454: seat_side_rectangle1
+    400456: seat_side_rectangle2
+    400458: seat_side_rectangle_01
+    400460: seat_side_rectangle_01 1
+    400462: seat_side_rectangle_02
+    400464: seat_side_rectangle_02 1
+    400466: Seat_UpperBack_01
+    400468: seatbelt_01
+    400470: seatbelt_02
+    400472: Seatbelt_group
+    400474: Ship_Joystick_l_01
+    400476: Ship_Joystick_r_01
+    400478: Ship_structure
+    400480: side_panel_BOLTS_01
+    400482: side_panel_BOLTS_01 1
+    400484: Side_panel_box_A_01
+    400486: Side_panel_box_A_01 1
+    400488: Side_panel_box_B_01
+    400490: Side_panel_box_B_01 1
+    400492: Side_panel_circle_botton_01
+    400494: Side_panel_circle_botton_01 1
+    400496: Side_panel_circle_botton_02
+    400498: Side_panel_circle_botton_02 1
+    400500: Side_Panel_Cube_Tube_01
+    400502: Side_Panel_Cube_Tube_01 1
+    400504: Side_Panel_Cube_Tube_02
+    400506: Side_Panel_Cube_Tube_02 1
+    400508: Side_Panel_Cube_Tube_03
+    400510: Side_Panel_Cube_Tube_03 1
+    400512: Side_Panel_Cube_Tubing_01
+    400514: Side_Panel_Cube_Tubing_01 1
+    400516: Side_Panel_Cube_Tubing_01 2
+    400518: Side_Panel_Cube_Tubing_01 3
+    400520: Side_Panel_Cube_Tubing_04
+    400522: Side_Panel_Cube_Tubing_04 1
+    400524: Side_panel_lightBulb_01
+    400526: Side_panel_lightBulb_02
+    400528: Side_panel_rectangle_switches_l_01
+    400530: Side_panel_rectangle_switches_l_01 1
+    400532: side_panel_tube_cilinder_01
+    400534: side_panel_tube_cilinder_01 1
+    400536: side_panel_tube_cilinder_01 2
+    400538: side_panel_tube_cilinder_01 3
+    400540: side_panel_tube_cilinder_01 4
+    400542: side_panel_tube_cilinder_01 5
+    400544: side_panel_tube_cube_01
+    400546: side_panel_tube_cube_01 1
+    400548: side_panel_tube_cube_01 2
+    400550: side_panel_tube_cube_01 3
+    400552: side_panel_tube_cube_01 4
+    400554: side_panel_tube_cube_01 5
+    400556: side_panel_tube_Led_01
+    400558: side_panel_tube_Led_02
+    400560: side_panel_tube_Led_03
+    400562: side_panel_tube_Led_04
+    400564: side_panel_tube_Led_05
+    400566: side_panel_tube_Led_06
+    400568: side_panel_tube_tubing_01
+    400570: side_panel_tube_tubing_01 1
+    400572: side_panel_tube_tubing_02
+    400574: side_panel_tube_tubing_02 1
+    400576: side_panel_tube_tubing_03
+    400578: side_panel_tube_tubing_03 1
+    400580: Side_panel_wall_cilinder_01
+    400582: Side_panel_wall_cilinder_01 1
+    400584: Side_panel_wall_cilinder_02
+    400586: Side_panel_wall_rectangle
+    400588: Side_panel_wall_rectangle 1
+    400590: Side_panel_wall_rectangle1
+    400592: Side_panel_wall_rectangle2
+    400594: Six_pack_switches_group
+    400596: SixPack_switches_Panel
+    400598: Small_central_panel_01
+    400600: Small_central_panel_multiLed
+    400602: Small_central_panel_small_ledaquare
+    400604: Sode_panel_window_rail
+    400606: Sode_panel_window_rail 1
+    400608: Startup_button_01
+    400610: Startup_button_01 1
+    400612: Startup_button_base_rim
+    400614: starup_button_sign
+    400616: structure_astromechDroid_area
+    400618: Switch_led_01
+    400620: Switch_led_02
+    400622: Switch_led_03
+    400624: Switch_led_04
+    400626: Switch_led_05
+    400628: Switch_led_06
+    400630: Switch_light_01
+    400632: Switch_light_01 1
+    400634: Switch_light_01 2
+    400636: Switch_light_01 3
+    400638: Switch_light_01 4
+    400640: Switch_light_01 5
+    400642: Switch_light_010
+    400644: Switch_light_011
+    400646: Switch_light_012
+    400648: Switch_light_013
+    400650: Switch_light_014
+    400652: Switch_light_02
+    400654: Switch_light_03
+    400656: Switch_light_04
+    400658: Switch_light_05
+    400660: Switch_light_06
+    400662: Switch_light_07
+    400664: Switch_light_08
+    400666: Switch_light_09
+    400668: Switch_light_frame_01
+    400670: Switch_light_frame_01 1
+    400672: Switch_light_frame_01 2
+    400674: Switch_light_frame_01 3
+    400676: Switch_light_frame_01 4
+    400678: Switch_light_frame_01 5
+    400680: Switch_light_frame_010
+    400682: Switch_light_frame_011
+    400684: Switch_light_frame_012
+    400686: Switch_light_frame_013
+    400688: Switch_light_frame_014
+    400690: Switch_light_frame_02
+    400692: Switch_light_frame_03
+    400694: Switch_light_frame_04
+    400696: Switch_light_frame_05
+    400698: Switch_light_frame_06
+    400700: Switch_light_frame_07
+    400702: Switch_light_frame_08
+    400704: Switch_light_frame_09
+    400706: Switch_SixPack_01
+    400708: Switch_SixPack_02
+    400710: Switch_SixPack_03
+    400712: Switch_SixPack_04
+    400714: Switch_SixPack_05
+    400716: Switch_SixPack_06
+    400718: Switch_SixPack_CircleBase_01
+    400720: Switch_SixPack_CircleBase_02
+    400722: Switch_SixPack_CircleBase_03
+    400724: Switch_SixPack_CircleBase_04
+    400726: Switch_SixPack_CircleBase_05
+    400728: Switch_SixPack_CircleBase_06
+    400730: transform1
+    400732: transform2
+    400734: transform3
+    400736: turbine_HeatSinkFinial_l_01
+    400738: turbine_HeatSinkFinial_l_02
+    400740: Turbine_protective_dome_l_01
+    400742: Turbine_protective_dome_l_02
+    2300000: bolt_01
+    2300002: bolt_010
+    2300004: bolt_011
+    2300006: bolt_011 1
+    2300008: bolt_012
+    2300010: bolt_012 1
+    2300012: bolt_013
+    2300014: bolt_013 1
+    2300016: bolt_014
+    2300018: bolt_014 1
+    2300020: bolt_02
+    2300022: bolt_03
+    2300024: bolt_04
+    2300026: bolt_05
+    2300028: bolt_06
+    2300030: bolt_07
+    2300032: bolt_08
+    2300034: bolt_09
+    2300036: Camera_crests_01
+    2300038: Camera_crests_02
+    2300040: Camera_crests_03
+    2300042: Camera_lens_01
+    2300044: Camera_lens_02
+    2300046: Camera_lens_03
+    2300048: Camera_sphere_01
+    2300050: Camera_sphere_02
+    2300052: Camera_sphere_03
+    2300054: Camera_tube_01
+    2300056: Camera_tube_02
+    2300058: Camera_tube_03
+    2300060: Cilinder_screen_bolt_01
+    2300062: Cilinder_screen_bolt_02
+    2300064: Cilinder_screen_bolt_03
+    2300066: Cilinder_screen_bolt_04
+    2300068: Cilinder_screen_bolt_05
+    2300070: Cilinder_screen_bolt_06
+    2300072: Cilinder_screen_bolt_07
+    2300074: Cilinder_screen_bolt_08
+    2300076: Cilinder_screen_bolt_09
+    2300078: Cilinder_screen_bolt_10
+    2300080: Cilinder_screen_bolt_11
+    2300082: Cilinder_screen_bolt_12
+    2300084: Cilinder_screen_bolt_13
+    2300086: Cilinder_screen_bolt_14
+    2300088: Cilinder_screen_l_01
+    2300090: Cilinder_screen_middle_01
+    2300092: Cilinder_screen_r_01 1
+    2300094: Cilinder_sidePanel_bolt_15
+    2300096: Cilinder_sidePanel_bolt_15 1
+    2300098: Cilinder_sidePanel_bolt_16
+    2300100: Cilinder_sidePanel_bolt_16 1
+    2300102: Cilinder_sidePanel_bolt_17
+    2300104: Cilinder_sidePanel_bolt_17 1
+    2300106: Cilinder_sidePanel_bolt_18
+    2300108: Cilinder_sidePanel_bolt_18 1
+    2300110: Cilinder_sidePanel_bolt_19
+    2300112: Cilinder_sidePanel_bolt_19 1
+    2300114: Cilinder_sidePanel_bolt_20
+    2300116: Cilinder_sidePanel_bolt_20 1
+    2300118: cockpit_cilinder_01
+    2300120: cockpit_cilinder_01 1
+    2300122: cockpit_cilinder_02
+    2300124: cockpit_cilinder_02 1
+    2300126: Cockpit_crystal 1
+    2300128: Cockpit_crystal_OuterFrame_01
+    2300130: Cockpit_crystal_OuterFrame_02
+    2300132: Cockpit_crystal_OuterFrame_03
+    2300134: Cockpit_crystal_OuterFrame_04
+    2300136: Cockpit_crystal_OuterFrame_Bolt_01
+    2300138: Cockpit_crystal_OuterFrame_Bolt_01 1
+    2300140: Cockpit_crystal_OuterFrame_Bolt_02
+    2300142: Cockpit_crystal_OuterFrame_Bolt_02 1
+    2300144: Cockpit_crystal_OuterFrame_Bolt_03
+    2300146: Cockpit_crystal_OuterFrame_Bolt_03 1
+    2300148: Cockpit_crystal_OuterFrame_Bolt_04
+    2300150: Cockpit_crystal_OuterFrame_Bolt_04 1
+    2300152: Cockpit_crystal_OuterFrame_Bolt_05
+    2300154: Cockpit_crystal_OuterFrame_Bolt_05 1
+    2300156: Cockpit_floor
+    2300158: cockpit_front_base
+    2300160: cockpit_JOINT_cilinder_01
+    2300162: cockpit_JOINT_cilinder_01 1
+    2300164: cockpit_light_indicator_panel_01 1
+    2300166: cockpit_light_indicator_panel_02
+    2300168: CockPit_Wall_01
+    2300170: jostick_circle_top
+    2300172: jostick_circle_top1
+    2300174: jostick_circle_top_l_01
+    2300176: Joystick_base_l_01
+    2300178: Joystick_base_l_02
+    2300180: Joystick_base_r_01
+    2300182: Joystick_base_r_02
+    2300184: joystick_button
+    2300186: joystick_button1
+    2300188: Joystick_button_trigger_l_01
+    2300190: Joystick_button_trigger_r_01
+    2300192: Joystick_conexion_tube
+    2300194: Joystick_conexion_tube1
+    2300196: Joystick_conexion_tube_l_01
+    2300198: Joystick_conexion_tube_l_02
+    2300200: Joystick_main_button_l_01
+    2300202: Joystick_main_button_r_01
+    2300204: joystick_oval_01
+    2300206: joystick_oval_l_01
+    2300208: Laser_cannon_l_01
+    2300210: Laser_cannon_l_02
+    2300212: Laser_cannon_l_03
+    2300214: LED_025
+    2300216: LED_025 1
+    2300218: LED_035
+    2300220: LED_05
+    2300222: LED_055
+    2300224: LED_056
+    2300226: LED_057
+    2300228: LED_058
+    2300230: LED_059
+    2300232: LED_060
+    2300234: LED_061
+    2300236: LED_062
+    2300238: LED_063
+    2300240: LED_064
+    2300242: LED_065
+    2300244: LED_066
+    2300246: LED_067
+    2300248: LED_068
+    2300250: LED_069
+    2300252: LED_070
+    2300254: LED_071
+    2300256: LED_072
+    2300258: LED_073
+    2300260: LED_074
+    2300262: LED_075
+    2300264: LED_076
+    2300266: LED_077
+    2300268: LED_078
+    2300270: LED_079
+    2300272: LED_080
+    2300274: LED_081
+    2300276: LED_082
+    2300278: LED_083
+    2300280: LED_084
+    2300282: Led_light_cube
+    2300284: Led_light_cube1
+    2300286: Led_light_cube2
+    2300288: Led_light_cube3
+    2300290: Led_light_cube4
+    2300292: Led_light_cube5
+    2300294: Lever_handle_01
+    2300296: lever_tube
+    2300298: Naboo_mainStructure_01
+    2300300: Panel_lateral
+    2300302: Panel_lateral 1
+    2300304: pCone1
+    2300306: pCone2
+    2300308: Pedal_foot_01
+    2300310: Pedal_foot_02
+    2300312: Pedal_piston_01
+    2300314: Pedal_piston_02
+    2300316: Pedal_piston_03
+    2300318: Pedal_piston_04
+    2300320: polySurface8
+    2300322: R0d2_lower_Gadgets_01
+    2300324: r2_cilinder
+    2300326: R2d2_lens_01
+    2300328: R2d2_lens_02
+    2300330: R2d2_lens_03
+    2300332: R2d2_lensBackground_02
+    2300334: R2d2_lensBackground_03
+    2300336: R2d2_upper_gadgets_01
+    2300338: Seat_belt_big_02
+    2300340: Seat_belt_big_04
+    2300342: Seat_belt_main_01
+    2300344: Seat_belt_main_03
+    2300346: Seat_belt_thingy_03
+    2300348: Seat_belt_thingy_03 1
+    2300350: Seat_down_01
+    2300352: seat_head_base_01
+    2300354: seat_head_lateral_l_01 1
+    2300356: seat_head_lateral_l_01 2
+    2300358: seat_head_lateral_l_cilinders_01
+    2300360: seat_head_lateral_l_cilinders_01 1
+    2300362: seat_head_lateral_l_circle_01
+    2300364: seat_head_lateral_l_circle_01 1
+    2300366: Seat_head_pillow
+    2300368: seat_head_wiring_01
+    2300370: seat_head_wiring_02
+    2300372: seat_side_rectangle_01
+    2300374: seat_side_rectangle_01 1
+    2300376: seat_side_rectangle_02
+    2300378: seat_side_rectangle_02 1
+    2300380: Seat_UpperBack_01
+    2300382: Side_panel_box_A_01
+    2300384: Side_panel_box_A_01 1
+    2300386: Side_panel_box_B_01
+    2300388: Side_panel_box_B_01 1
+    2300390: Side_panel_circle_botton_01
+    2300392: Side_panel_circle_botton_01 1
+    2300394: Side_panel_circle_botton_02
+    2300396: Side_panel_circle_botton_02 1
+    2300398: Side_Panel_Cube_Tube_01
+    2300400: Side_Panel_Cube_Tube_01 1
+    2300402: Side_Panel_Cube_Tube_02
+    2300404: Side_Panel_Cube_Tube_02 1
+    2300406: Side_Panel_Cube_Tube_03
+    2300408: Side_Panel_Cube_Tube_03 1
+    2300410: Side_Panel_Cube_Tubing_01 2
+    2300412: Side_Panel_Cube_Tubing_01 3
+    2300414: Side_Panel_Cube_Tubing_04
+    2300416: Side_Panel_Cube_Tubing_04 1
+    2300418: Side_panel_lightBulb_01
+    2300420: Side_panel_lightBulb_02
+    2300422: side_panel_tube_cilinder_01
+    2300424: side_panel_tube_cilinder_01 1
+    2300426: side_panel_tube_cilinder_01 2
+    2300428: side_panel_tube_cilinder_01 3
+    2300430: side_panel_tube_cilinder_01 4
+    2300432: side_panel_tube_cilinder_01 5
+    2300434: side_panel_tube_cube_01
+    2300436: side_panel_tube_cube_01 1
+    2300438: side_panel_tube_cube_01 2
+    2300440: side_panel_tube_cube_01 3
+    2300442: side_panel_tube_cube_01 4
+    2300444: side_panel_tube_cube_01 5
+    2300446: side_panel_tube_Led_01
+    2300448: side_panel_tube_Led_02
+    2300450: side_panel_tube_Led_03
+    2300452: side_panel_tube_Led_04
+    2300454: side_panel_tube_Led_05
+    2300456: side_panel_tube_Led_06
+    2300458: Side_panel_wall_cilinder_01
+    2300460: Side_panel_wall_cilinder_01 1
+    2300462: Side_panel_wall_cilinder_02
+    2300464: Side_panel_wall_rectangle
+    2300466: Side_panel_wall_rectangle 1
+    2300468: Side_panel_wall_rectangle1
+    2300470: Side_panel_wall_rectangle2
+    2300472: Small_central_panel_multiLed
+    2300474: Small_central_panel_small_ledaquare
+    2300476: Sode_panel_window_rail
+    2300478: Sode_panel_window_rail 1
+    2300480: Startup_button_01 1
+    2300482: Startup_button_base_rim
+    2300484: starup_button_sign
+    2300486: structure_astromechDroid_area
+    2300488: Switch_light_01
+    2300490: Switch_light_01 1
+    2300492: Switch_light_01 2
+    2300494: Switch_light_01 3
+    2300496: Switch_light_01 4
+    2300498: Switch_light_01 5
+    2300500: Switch_light_010
+    2300502: Switch_light_011
+    2300504: Switch_light_012
+    2300506: Switch_light_013
+    2300508: Switch_light_014
+    2300510: Switch_light_02
+    2300512: Switch_light_03
+    2300514: Switch_light_04
+    2300516: Switch_light_05
+    2300518: Switch_light_06
+    2300520: Switch_light_07
+    2300522: Switch_light_08
+    2300524: Switch_light_09
+    2300526: Switch_light_frame_01
+    2300528: Switch_light_frame_01 1
+    2300530: Switch_light_frame_01 2
+    2300532: Switch_light_frame_01 3
+    2300534: Switch_light_frame_01 4
+    2300536: Switch_light_frame_01 5
+    2300538: Switch_light_frame_010
+    2300540: Switch_light_frame_011
+    2300542: Switch_light_frame_012
+    2300544: Switch_light_frame_013
+    2300546: Switch_light_frame_014
+    2300548: Switch_light_frame_02
+    2300550: Switch_light_frame_03
+    2300552: Switch_light_frame_04
+    2300554: Switch_light_frame_05
+    2300556: Switch_light_frame_06
+    2300558: Switch_light_frame_07
+    2300560: Switch_light_frame_08
+    2300562: Switch_light_frame_09
+    2300564: Switch_SixPack_01
+    2300566: Switch_SixPack_02
+    2300568: Switch_SixPack_03
+    2300570: Switch_SixPack_04
+    2300572: Switch_SixPack_05
+    2300574: Switch_SixPack_06
+    2300576: Switch_SixPack_CircleBase_01
+    2300578: Switch_SixPack_CircleBase_02
+    2300580: Switch_SixPack_CircleBase_03
+    2300582: Switch_SixPack_CircleBase_04
+    2300584: Switch_SixPack_CircleBase_05
+    2300586: Switch_SixPack_CircleBase_06
+    2300588: turbine_HeatSinkFinial_l_01
+    2300590: turbine_HeatSinkFinial_l_02
+    2300592: Turbine_protective_dome_l_01
+    2300594: Turbine_protective_dome_l_02
+    3300000: bolt_01
+    3300002: bolt_010
+    3300004: bolt_011
+    3300006: bolt_011 1
+    3300008: bolt_012
+    3300010: bolt_012 1
+    3300012: bolt_013
+    3300014: bolt_013 1
+    3300016: bolt_014
+    3300018: bolt_014 1
+    3300020: bolt_02
+    3300022: bolt_03
+    3300024: bolt_04
+    3300026: bolt_05
+    3300028: bolt_06
+    3300030: bolt_07
+    3300032: bolt_08
+    3300034: bolt_09
+    3300036: Camera_crests_01
+    3300038: Camera_crests_02
+    3300040: Camera_crests_03
+    3300042: Camera_lens_01
+    3300044: Camera_lens_02
+    3300046: Camera_lens_03
+    3300048: Camera_sphere_01
+    3300050: Camera_sphere_02
+    3300052: Camera_sphere_03
+    3300054: Camera_tube_01
+    3300056: Camera_tube_02
+    3300058: Camera_tube_03
+    3300060: Cilinder_screen_bolt_01
+    3300062: Cilinder_screen_bolt_02
+    3300064: Cilinder_screen_bolt_03
+    3300066: Cilinder_screen_bolt_04
+    3300068: Cilinder_screen_bolt_05
+    3300070: Cilinder_screen_bolt_06
+    3300072: Cilinder_screen_bolt_07
+    3300074: Cilinder_screen_bolt_08
+    3300076: Cilinder_screen_bolt_09
+    3300078: Cilinder_screen_bolt_10
+    3300080: Cilinder_screen_bolt_11
+    3300082: Cilinder_screen_bolt_12
+    3300084: Cilinder_screen_bolt_13
+    3300086: Cilinder_screen_bolt_14
+    3300088: Cilinder_screen_l_01
+    3300090: Cilinder_screen_middle_01
+    3300092: Cilinder_screen_r_01 1
+    3300094: Cilinder_sidePanel_bolt_15
+    3300096: Cilinder_sidePanel_bolt_15 1
+    3300098: Cilinder_sidePanel_bolt_16
+    3300100: Cilinder_sidePanel_bolt_16 1
+    3300102: Cilinder_sidePanel_bolt_17
+    3300104: Cilinder_sidePanel_bolt_17 1
+    3300106: Cilinder_sidePanel_bolt_18
+    3300108: Cilinder_sidePanel_bolt_18 1
+    3300110: Cilinder_sidePanel_bolt_19
+    3300112: Cilinder_sidePanel_bolt_19 1
+    3300114: Cilinder_sidePanel_bolt_20
+    3300116: Cilinder_sidePanel_bolt_20 1
+    3300118: cockpit_cilinder_01
+    3300120: cockpit_cilinder_01 1
+    3300122: cockpit_cilinder_02
+    3300124: cockpit_cilinder_02 1
+    3300126: Cockpit_crystal 1
+    3300128: Cockpit_crystal_OuterFrame_01
+    3300130: Cockpit_crystal_OuterFrame_02
+    3300132: Cockpit_crystal_OuterFrame_03
+    3300134: Cockpit_crystal_OuterFrame_04
+    3300136: Cockpit_crystal_OuterFrame_Bolt_01
+    3300138: Cockpit_crystal_OuterFrame_Bolt_01 1
+    3300140: Cockpit_crystal_OuterFrame_Bolt_02
+    3300142: Cockpit_crystal_OuterFrame_Bolt_02 1
+    3300144: Cockpit_crystal_OuterFrame_Bolt_03
+    3300146: Cockpit_crystal_OuterFrame_Bolt_03 1
+    3300148: Cockpit_crystal_OuterFrame_Bolt_04
+    3300150: Cockpit_crystal_OuterFrame_Bolt_04 1
+    3300152: Cockpit_crystal_OuterFrame_Bolt_05
+    3300154: Cockpit_crystal_OuterFrame_Bolt_05 1
+    3300156: Cockpit_floor
+    3300158: cockpit_front_base
+    3300160: cockpit_JOINT_cilinder_01
+    3300162: cockpit_JOINT_cilinder_01 1
+    3300164: cockpit_light_indicator_panel_01 1
+    3300166: cockpit_light_indicator_panel_02
+    3300168: CockPit_Wall_01
+    3300170: jostick_circle_top
+    3300172: jostick_circle_top1
+    3300174: jostick_circle_top_l_01
+    3300176: Joystick_base_l_01
+    3300178: Joystick_base_l_02
+    3300180: Joystick_base_r_01
+    3300182: Joystick_base_r_02
+    3300184: joystick_button
+    3300186: joystick_button1
+    3300188: Joystick_button_trigger_l_01
+    3300190: Joystick_button_trigger_r_01
+    3300192: Joystick_conexion_tube
+    3300194: Joystick_conexion_tube1
+    3300196: Joystick_conexion_tube_l_01
+    3300198: Joystick_conexion_tube_l_02
+    3300200: Joystick_main_button_l_01
+    3300202: Joystick_main_button_r_01
+    3300204: joystick_oval_01
+    3300206: joystick_oval_l_01
+    3300208: Laser_cannon_l_01
+    3300210: Laser_cannon_l_02
+    3300212: Laser_cannon_l_03
+    3300214: LED_025
+    3300216: LED_025 1
+    3300218: LED_035
+    3300220: LED_05
+    3300222: LED_055
+    3300224: LED_056
+    3300226: LED_057
+    3300228: LED_058
+    3300230: LED_059
+    3300232: LED_060
+    3300234: LED_061
+    3300236: LED_062
+    3300238: LED_063
+    3300240: LED_064
+    3300242: LED_065
+    3300244: LED_066
+    3300246: LED_067
+    3300248: LED_068
+    3300250: LED_069
+    3300252: LED_070
+    3300254: LED_071
+    3300256: LED_072
+    3300258: LED_073
+    3300260: LED_074
+    3300262: LED_075
+    3300264: LED_076
+    3300266: LED_077
+    3300268: LED_078
+    3300270: LED_079
+    3300272: LED_080
+    3300274: LED_081
+    3300276: LED_082
+    3300278: LED_083
+    3300280: LED_084
+    3300282: Led_light_cube
+    3300284: Led_light_cube1
+    3300286: Led_light_cube2
+    3300288: Led_light_cube3
+    3300290: Led_light_cube4
+    3300292: Led_light_cube5
+    3300294: Lever_handle_01
+    3300296: lever_tube
+    3300298: Naboo_mainStructure_01
+    3300300: Panel_lateral
+    3300302: Panel_lateral 1
+    3300304: pCone1
+    3300306: pCone2
+    3300308: Pedal_foot_01
+    3300310: Pedal_foot_02
+    3300312: Pedal_piston_01
+    3300314: Pedal_piston_02
+    3300316: Pedal_piston_03
+    3300318: Pedal_piston_04
+    3300320: polySurface8
+    3300322: R0d2_lower_Gadgets_01
+    3300324: r2_cilinder
+    3300326: R2d2_lens_01
+    3300328: R2d2_lens_02
+    3300330: R2d2_lens_03
+    3300332: R2d2_lensBackground_02
+    3300334: R2d2_lensBackground_03
+    3300336: R2d2_upper_gadgets_01
+    3300338: Seat_belt_big_02
+    3300340: Seat_belt_big_04
+    3300342: Seat_belt_main_01
+    3300344: Seat_belt_main_03
+    3300346: Seat_belt_thingy_03
+    3300348: Seat_belt_thingy_03 1
+    3300350: Seat_down_01
+    3300352: seat_head_base_01
+    3300354: seat_head_lateral_l_01 1
+    3300356: seat_head_lateral_l_01 2
+    3300358: seat_head_lateral_l_cilinders_01
+    3300360: seat_head_lateral_l_cilinders_01 1
+    3300362: seat_head_lateral_l_circle_01
+    3300364: seat_head_lateral_l_circle_01 1
+    3300366: Seat_head_pillow
+    3300368: seat_head_wiring_01
+    3300370: seat_head_wiring_02
+    3300372: seat_side_rectangle_01
+    3300374: seat_side_rectangle_01 1
+    3300376: seat_side_rectangle_02
+    3300378: seat_side_rectangle_02 1
+    3300380: Seat_UpperBack_01
+    3300382: Side_panel_box_A_01
+    3300384: Side_panel_box_A_01 1
+    3300386: Side_panel_box_B_01
+    3300388: Side_panel_box_B_01 1
+    3300390: Side_panel_circle_botton_01
+    3300392: Side_panel_circle_botton_01 1
+    3300394: Side_panel_circle_botton_02
+    3300396: Side_panel_circle_botton_02 1
+    3300398: Side_Panel_Cube_Tube_01
+    3300400: Side_Panel_Cube_Tube_01 1
+    3300402: Side_Panel_Cube_Tube_02
+    3300404: Side_Panel_Cube_Tube_02 1
+    3300406: Side_Panel_Cube_Tube_03
+    3300408: Side_Panel_Cube_Tube_03 1
+    3300410: Side_Panel_Cube_Tubing_01 2
+    3300412: Side_Panel_Cube_Tubing_01 3
+    3300414: Side_Panel_Cube_Tubing_04
+    3300416: Side_Panel_Cube_Tubing_04 1
+    3300418: Side_panel_lightBulb_01
+    3300420: Side_panel_lightBulb_02
+    3300422: side_panel_tube_cilinder_01
+    3300424: side_panel_tube_cilinder_01 1
+    3300426: side_panel_tube_cilinder_01 2
+    3300428: side_panel_tube_cilinder_01 3
+    3300430: side_panel_tube_cilinder_01 4
+    3300432: side_panel_tube_cilinder_01 5
+    3300434: side_panel_tube_cube_01
+    3300436: side_panel_tube_cube_01 1
+    3300438: side_panel_tube_cube_01 2
+    3300440: side_panel_tube_cube_01 3
+    3300442: side_panel_tube_cube_01 4
+    3300444: side_panel_tube_cube_01 5
+    3300446: side_panel_tube_Led_01
+    3300448: side_panel_tube_Led_02
+    3300450: side_panel_tube_Led_03
+    3300452: side_panel_tube_Led_04
+    3300454: side_panel_tube_Led_05
+    3300456: side_panel_tube_Led_06
+    3300458: Side_panel_wall_cilinder_01
+    3300460: Side_panel_wall_cilinder_01 1
+    3300462: Side_panel_wall_cilinder_02
+    3300464: Side_panel_wall_rectangle
+    3300466: Side_panel_wall_rectangle 1
+    3300468: Side_panel_wall_rectangle1
+    3300470: Side_panel_wall_rectangle2
+    3300472: Small_central_panel_multiLed
+    3300474: Small_central_panel_small_ledaquare
+    3300476: Sode_panel_window_rail
+    3300478: Sode_panel_window_rail 1
+    3300480: Startup_button_01 1
+    3300482: Startup_button_base_rim
+    3300484: starup_button_sign
+    3300486: structure_astromechDroid_area
+    3300488: Switch_light_01
+    3300490: Switch_light_01 1
+    3300492: Switch_light_01 2
+    3300494: Switch_light_01 3
+    3300496: Switch_light_01 4
+    3300498: Switch_light_01 5
+    3300500: Switch_light_010
+    3300502: Switch_light_011
+    3300504: Switch_light_012
+    3300506: Switch_light_013
+    3300508: Switch_light_014
+    3300510: Switch_light_02
+    3300512: Switch_light_03
+    3300514: Switch_light_04
+    3300516: Switch_light_05
+    3300518: Switch_light_06
+    3300520: Switch_light_07
+    3300522: Switch_light_08
+    3300524: Switch_light_09
+    3300526: Switch_light_frame_01
+    3300528: Switch_light_frame_01 1
+    3300530: Switch_light_frame_01 2
+    3300532: Switch_light_frame_01 3
+    3300534: Switch_light_frame_01 4
+    3300536: Switch_light_frame_01 5
+    3300538: Switch_light_frame_010
+    3300540: Switch_light_frame_011
+    3300542: Switch_light_frame_012
+    3300544: Switch_light_frame_013
+    3300546: Switch_light_frame_014
+    3300548: Switch_light_frame_02
+    3300550: Switch_light_frame_03
+    3300552: Switch_light_frame_04
+    3300554: Switch_light_frame_05
+    3300556: Switch_light_frame_06
+    3300558: Switch_light_frame_07
+    3300560: Switch_light_frame_08
+    3300562: Switch_light_frame_09
+    3300564: Switch_SixPack_01
+    3300566: Switch_SixPack_02
+    3300568: Switch_SixPack_03
+    3300570: Switch_SixPack_04
+    3300572: Switch_SixPack_05
+    3300574: Switch_SixPack_06
+    3300576: Switch_SixPack_CircleBase_01
+    3300578: Switch_SixPack_CircleBase_02
+    3300580: Switch_SixPack_CircleBase_03
+    3300582: Switch_SixPack_CircleBase_04
+    3300584: Switch_SixPack_CircleBase_05
+    3300586: Switch_SixPack_CircleBase_06
+    3300588: turbine_HeatSinkFinial_l_01
+    3300590: turbine_HeatSinkFinial_l_02
+    3300592: Turbine_protective_dome_l_01
+    3300594: Turbine_protective_dome_l_02
+    4300000: turbine_HeatSinkFinial_l_01
+    4300002: Turbine_protective_dome_l_01
+    4300004: Laser_cannon_l_01
+    4300006: structure_astromechDroid_area
+    4300008: r2_cilinder
+    4300010: Cilinder_screen_l_01
+    4300012: Cilinder_screen_middle_01
+    4300014: Cilinder_screen_bolt_01
+    4300016: Cilinder_screen_bolt_04
+    4300018: Cilinder_screen_bolt_03
+    4300020: Cilinder_screen_bolt_02
+    4300022: Cilinder_screen_bolt_10
+    4300024: Cilinder_screen_bolt_11
+    4300026: Cilinder_screen_bolt_12
+    4300028: Cilinder_screen_bolt_07
+    4300030: Cilinder_screen_bolt_06
+    4300032: Cilinder_screen_bolt_05
+    4300034: Cilinder_screen_bolt_08
+    4300036: Cilinder_screen_bolt_09
+    4300038: Cilinder_screen_r_01
+    4300040: Joystick_button_trigger_r_01
+    4300042: Joystick_base_r_01
+    4300044: Joystick_base_r_02
+    4300046: jostick_circle_top
+    4300048: Joystick_main_button_r_01
+    4300050: joystick_button
+    4300052: bolt_012
+    4300054: bolt_013
+    4300056: bolt_011
+    4300058: joystick_oval_01
+    4300060: bolt_014
+    4300062: LED_025
+    4300064: Joystick_conexion_tube
+    4300066: Joystick_conexion_tube1
+    4300068: joystick_button1
+    4300070: Joystick_button_trigger_l_01
+    4300072: Joystick_base_l_01
+    4300074: Joystick_base_l_02
+    4300076: jostick_circle_top_l_01
+    4300078: Joystick_main_button_l_01
+    4300080: bolt_012
+    4300082: bolt_013
+    4300084: bolt_011
+    4300086: joystick_oval_l_01
+    4300088: bolt_014
+    4300090: LED_025
+    4300092: Joystick_conexion_tube_l_01
+    4300094: Joystick_conexion_tube_l_02
+    4300096: Seat_UpperBack_01
+    4300098: Seat_down_01
+    4300100: Seat_head_pillow
+    4300102: seat_head_base_01
+    4300104: seat_head_lateral_l_01
+    4300106: seat_head_lateral_l_circle_01
+    4300108: seat_head_lateral_l_cilinders_01
+    4300110: seat_head_wiring_01
+    4300112: seat_side_rectangle_01
+    4300114: seat_side_rectangle_02
+    4300116: Cilinder_sidePanel_bolt_19
+    4300118: Cilinder_sidePanel_bolt_20
+    4300120: seat_head_lateral_l_01
+    4300122: seat_head_lateral_l_circle_01
+    4300124: seat_head_lateral_l_cilinders_01
+    4300126: seat_head_wiring_02
+    4300128: seat_side_rectangle_01
+    4300130: seat_side_rectangle_02
+    4300132: Cilinder_sidePanel_bolt_19
+    4300134: Cilinder_sidePanel_bolt_20
+    4300136: Seat_belt_main_01
+    4300138: Seat_belt_big_02
+    4300140: Seat_belt_thingy_03
+    4300142: Seat_belt_main_03
+    4300144: Seat_belt_big_04
+    4300146: Seat_belt_thingy_03
+    4300148: lever_tube
+    4300150: Lever_handle_01
+    4300152: Side_panel_wall_cilinder_02
+    4300154: cockpit_cilinder_01
+    4300156: cockpit_cilinder_02
+    4300158: cockpit_JOINT_cilinder_01
+    4300160: cockpit_light_indicator_panel_01
+    4300162: cockpit_light_indicator_panel_02
+    4300164: bolt_04
+    4300166: bolt_03
+    4300168: bolt_01
+    4300170: LED_05
+    4300172: bolt_02
+    4300174: LED_035
+    4300176: LED_056
+    4300178: LED_057
+    4300180: LED_058
+    4300182: LED_059
+    4300184: LED_060
+    4300186: LED_061
+    4300188: LED_062
+    4300190: LED_063
+    4300192: LED_064
+    4300194: LED_065
+    4300196: LED_066
+    4300198: LED_067
+    4300200: LED_068
+    4300202: LED_069
+    4300204: LED_070
+    4300206: LED_071
+    4300208: LED_072
+    4300210: LED_073
+    4300212: LED_074
+    4300214: LED_075
+    4300216: LED_076
+    4300218: LED_077
+    4300220: LED_078
+    4300222: LED_079
+    4300224: LED_080
+    4300226: LED_081
+    4300228: LED_082
+    4300230: LED_083
+    4300232: LED_084
+    4300234: Switch_light_frame_01
+    4300236: Switch_light_01
+    4300238: Switch_light_frame_01
+    4300240: Switch_light_01
+    4300242: Switch_light_frame_01
+    4300244: Switch_light_01
+    4300246: Switch_light_frame_01
+    4300248: Switch_light_01
+    4300250: Switch_light_frame_01
+    4300252: Switch_light_01
+    4300254: Switch_light_frame_01
+    4300256: Switch_light_01
+    4300258: bolt_05
+    4300260: bolt_06
+    4300262: bolt_07
+    4300264: bolt_08
+    4300266: jostick_circle_top1
+    4300268: Cilinder_screen_bolt_14
+    4300270: Cilinder_screen_bolt_13
+    4300272: LED_055
+    4300274: Startup_button_01
+    4300276: Startup_button_base_rim
+    4300278: starup_button_sign
+    4300280: bolt_09
+    4300282: bolt_010
+    4300284: Led_light_cube
+    4300286: Led_light_cube1
+    4300288: Led_light_cube2
+    4300290: Led_light_cube3
+    4300292: Led_light_cube4
+    4300294: Led_light_cube5
+    4300296: Switch_light_frame_03
+    4300298: Switch_light_03
+    4300300: Switch_light_frame_02
+    4300302: Switch_light_02
+    4300304: Switch_light_04
+    4300306: Switch_light_frame_04
+    4300308: Switch_SixPack_01
+    4300310: Switch_SixPack_02
+    4300312: Switch_SixPack_03
+    4300314: Switch_SixPack_04
+    4300316: Switch_SixPack_05
+    4300318: Switch_SixPack_06
+    4300320: Switch_SixPack_CircleBase_01
+    4300322: Switch_SixPack_CircleBase_02
+    4300324: Switch_SixPack_CircleBase_03
+    4300326: Switch_SixPack_CircleBase_04
+    4300328: Switch_SixPack_CircleBase_05
+    4300330: Switch_SixPack_CircleBase_06
+    4300332: Small_central_panel_multiLed
+    4300334: Small_central_panel_small_ledaquare
+    4300336: Panel_lateral
+    4300338: Side_panel_wall_rectangle
+    4300340: Side_panel_wall_cilinder_01
+    4300342: Sode_panel_window_rail
+    4300344: Side_panel_box_A_01
+    4300346: Side_panel_box_B_01
+    4300348: Switch_light_05
+    4300350: Switch_light_frame_05
+    4300352: Switch_light_06
+    4300354: Switch_light_frame_06
+    4300356: Side_panel_circle_botton_01
+    4300358: Side_panel_circle_botton_02
+    4300360: Side_panel_lightBulb_01
+    4300362: Side_panel_lightBulb_02
+    4300364: Switch_light_frame_013
+    4300366: Switch_light_013
+    4300368: Switch_light_014
+    4300370: Switch_light_frame_014
+    4300372: side_panel_tube_cube_01
+    4300374: side_panel_tube_cilinder_01
+    4300376: side_panel_tube_Led_01
+    4300378: Switch_light_frame_07
+    4300380: Switch_light_07
+    4300382: side_panel_tube_cube_01
+    4300384: side_panel_tube_cilinder_01
+    4300386: side_panel_tube_Led_02
+    4300388: Switch_light_frame_08
+    4300390: Switch_light_08
+    4300392: side_panel_tube_cube_01
+    4300394: side_panel_tube_cilinder_01
+    4300396: side_panel_tube_Led_03
+    4300398: Switch_light_frame_09
+    4300400: Switch_light_09
+    4300402: Side_Panel_Cube_Tubing_01
+    4300404: Side_Panel_Cube_Tube_03
+    4300406: Side_Panel_Cube_Tube_01
+    4300408: Side_Panel_Cube_Tube_02
+    4300410: Side_Panel_Cube_Tubing_04
+    4300412: Cilinder_sidePanel_bolt_17
+    4300414: Cilinder_sidePanel_bolt_16
+    4300416: Cilinder_sidePanel_bolt_15
+    4300418: Cilinder_sidePanel_bolt_18
+    4300420: Side_panel_wall_rectangle1
+    4300422: Side_panel_wall_rectangle2
+    4300424: side_panel_tube_Led_04
+    4300426: side_panel_tube_Led_05
+    4300428: side_panel_tube_Led_06
+    4300430: Switch_light_frame_010
+    4300432: Switch_light_010
+    4300434: Switch_light_011
+    4300436: Switch_light_frame_011
+    4300438: Switch_light_frame_012
+    4300440: Switch_light_012
+    4300442: Panel_lateral
+    4300444: Side_panel_wall_rectangle
+    4300446: Side_panel_wall_cilinder_01
+    4300448: Sode_panel_window_rail
+    4300450: Side_panel_box_A_01
+    4300452: Side_panel_box_B_01
+    4300454: Side_panel_circle_botton_01
+    4300456: Side_panel_circle_botton_02
+    4300458: side_panel_tube_cube_01
+    4300460: side_panel_tube_cilinder_01
+    4300462: side_panel_tube_cube_01
+    4300464: side_panel_tube_cilinder_01
+    4300466: side_panel_tube_cube_01
+    4300468: side_panel_tube_cilinder_01
+    4300470: Side_Panel_Cube_Tubing_01
+    4300472: Side_Panel_Cube_Tube_03
+    4300474: Side_Panel_Cube_Tube_01
+    4300476: Side_Panel_Cube_Tube_02
+    4300478: Side_Panel_Cube_Tubing_04
+    4300480: Cilinder_sidePanel_bolt_17
+    4300482: Cilinder_sidePanel_bolt_16
+    4300484: Cilinder_sidePanel_bolt_15
+    4300486: Cilinder_sidePanel_bolt_18
+    4300488: cockpit_cilinder_01
+    4300490: cockpit_cilinder_02
+    4300492: cockpit_JOINT_cilinder_01
+    4300494: Pedal_foot_02
+    4300496: Pedal_piston_03
+    4300498: Pedal_piston_04
+    4300500: Pedal_foot_01
+    4300502: Pedal_piston_01
+    4300504: Pedal_piston_02
+    4300506: cockpit_front_base
+    4300508: CockPit_Wall_01
+    4300510: Cockpit_floor
+    4300512: Cockpit_crystal_OuterFrame_01
+    4300514: Cockpit_crystal
+    4300516: Cockpit_crystal_OuterFrame_03
+    4300518: Cockpit_crystal_OuterFrame_02
+    4300520: Cockpit_crystal_OuterFrame_Bolt_05
+    4300522: Cockpit_crystal_OuterFrame_Bolt_04
+    4300524: Cockpit_crystal_OuterFrame_Bolt_03
+    4300526: Cockpit_crystal_OuterFrame_Bolt_02
+    4300528: Cockpit_crystal_OuterFrame_Bolt_01
+    4300530: Cockpit_crystal_OuterFrame_Bolt_05
+    4300532: Cockpit_crystal_OuterFrame_Bolt_04
+    4300534: Cockpit_crystal_OuterFrame_Bolt_03
+    4300536: Cockpit_crystal_OuterFrame_Bolt_02
+    4300538: Cockpit_crystal_OuterFrame_Bolt_01
+    4300540: Cockpit_crystal_OuterFrame_04
+    4300542: polySurface8
+    4300544: R2d2_upper_gadgets_01
+    4300546: R0d2_lower_Gadgets_01
+    4300548: R2d2_lens_01
+    4300550: R2d2_lensBackground_02
+    4300552: R2d2_lens_02
+    4300554: R2d2_lensBackground_03
+    4300556: R2d2_lens_03
+    4300558: Camera_sphere_03
+    4300560: Camera_tube_03
+    4300562: Camera_lens_03
+    4300564: Camera_crests_03
+    4300566: Camera_sphere_02
+    4300568: Camera_tube_02
+    4300570: Camera_lens_02
+    4300572: Camera_crests_02
+    4300574: Camera_sphere_01
+    4300576: Camera_tube_01
+    4300578: Camera_lens_01
+    4300580: Camera_crests_01
+    4300582: Naboo_mainStructure_01
+    4300584: Laser_cannon_l_02
+    4300586: turbine_HeatSinkFinial_l_02
+    4300588: Turbine_protective_dome_l_02
+    4300590: Laser_cannon_l_03
+    4300592: pCone1
+    4300594: pCone2
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
